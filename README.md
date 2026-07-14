@@ -57,9 +57,7 @@ A unified end-to-end Data &amp; AI platform, for Big Data Analytics, Engineering
 7. Model serving endpoint, for:
 - training
 - feature engineering
-
-Note: Source code currently confidential, please request for access
-
-
 - testing, monitoring
 - & serving models
+
+Note: Source code currently confidential, please request for access
