@@ -60,4 +60,4 @@ A unified end-to-end Data &amp; AI platform, for Big Data Analytics, Engineering
 - testing, monitoring
 - & serving models
 
-Note: Source code currently confidential, please request for access
+Note: Source code currently confidential (due to IP reports issues), please request for access personally.
